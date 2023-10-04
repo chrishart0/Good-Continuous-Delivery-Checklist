@@ -1,4 +1,5 @@
-## Continuous Delivery Book Notes
+# Continuous Delivery Book Notes
+Github Pages: <https://chrishart0.github.io/Good-Continuous-Delivery-Checklist/>
 
 ## Checklist of everything needed to preform Continuous Delivery:
 
